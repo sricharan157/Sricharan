@@ -1,6 +1,6 @@
 # Sricharan Reddy
 
-![Profile Picture](![sricharan reddy]()
+![Profile Picture](![sricharan reddy](https://github.com/sricharan157/Sricharan/blob/main/WhatsApp%20Image%202025-03-17%20at%2010.17.15%20AM.jpeg)
 )
 
 Welcome to my portfolio! I am a Java Full-Stack Developer with over 5 years of expertise in developing enterprise-grade, scalable, and high-performing applications. I specialize in backend development with Java, Spring Boot, and Hibernate, while also excelling in frontend technologies like React, Angular, and TypeScript. This portfolio showcases my professional achievements, projects, and contributions in the software development field.
