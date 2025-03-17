@@ -3,9 +3,9 @@
 ## Contact Information
 
 - Phone: [937-247-4837](tel:+19372474837)
-- Email: [Gmail](mailto:your-email@gmail.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- GitHub: [GitHub Profile](https://github.com/your-github)
+- Email: [Gmail](mailto:your-sricharanreddybodamail@gmail.com)
+- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/sricharan-b-242786343)
+- GitHub: [GitHub Profile](https://github.com/sricharan157)
 
 ---
 
