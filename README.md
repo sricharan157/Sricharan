@@ -1,4 +1,4 @@
-# Sricharan Reddy Boda's Portfolio
+# Sricharan Reddy
 
 ![Profile Picture](![sricharan reddy]()
 )
