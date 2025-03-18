@@ -45,7 +45,7 @@ Welcome to my portfolio! I am a Java Full-Stack Developer with over 5 years of e
 - Built *RESTful APIs* and integrated *Angular* for UI, improving user experience for healthcare professionals and patients.
 - Worked with *Kubernetes* and *Docker* for containerization and deployment on *AWS* and *Azure*.
 
-### Fannie Mae, Reston, VA (Feb 2022 – Jan 2023)
+### Fannie Mae, Reston, VA (Feb 2023 – Jan 2024)
 *Role*: Full Stack Java Developer  
 - Created a *policy management system* using *Spring Boot* and *Angular* to improve operational efficiency in insurance.
 - Integrated *Kafka* for asynchronous messaging and *Elasticsearch* for fast searching of policyholder data.
