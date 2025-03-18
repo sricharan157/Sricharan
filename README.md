@@ -39,13 +39,13 @@ Welcome to my portfolio! I am a Java Full-Stack Developer with over 5 years of e
 
 ## Professional Experience
 
-### Guidewell Source, Jacksonville, FL (Nov 2023 – Present)
+### Guidewell Source, Jacksonville, FL (Feb 2024 – Present)
 *Role*: Java Full-Stack Developer  
 - Developed healthcare applications using *Java* and *Spring Boot*, ensuring HIPAA compliance and enhancing operational efficiency.
 - Built *RESTful APIs* and integrated *Angular* for UI, improving user experience for healthcare professionals and patients.
 - Worked with *Kubernetes* and *Docker* for containerization and deployment on *AWS* and *Azure*.
 
-### Fannie Mae, Reston, VA (Aug 2022 – Oct 2023)
+### Fannie Mae, Reston, VA (Feb 2022 – Jan 2023)
 *Role*: Full Stack Java Developer  
 - Created a *policy management system* using *Spring Boot* and *Angular* to improve operational efficiency in insurance.
 - Integrated *Kafka* for asynchronous messaging and *Elasticsearch* for fast searching of policyholder data.
