@@ -1,5 +1,5 @@
 # Java Full Stack Developer
-**[Resume](./sricharan_resume.pdf)**
+**[Resume](./images/sricharan_resume.pdf)**
 
 Welcome to my portfolio! I am a Java Full-Stack Developer with over 5 years of expertise in developing enterprise-grade, scalable, and high-performing applications. I specialize in backend development with Java, Spring Boot, and Hibernate, while also excelling in frontend technologies like React, Angular, and TypeScript. This portfolio showcases my professional achievements, projects, and contributions in the software development field.
 
