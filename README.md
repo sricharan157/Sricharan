@@ -9,7 +9,7 @@ Welcome to my portfolio! I am a Java Full-Stack Developer with over 5 years of e
 - **Email**: [sricharanreddyboda@gmail.com](mailto:sricharanreddyboda@gmail.com)  
 - **LinkedIn**: [www.linkedin.com/in/sricharan-b-242786343](https://www.linkedin.com/in/sricharan-b-242786343)  
 - **GitHub**: [https://github.com/sricharan157](https://github.com/sricharan157)  
-
+- **Resume**:(./images/sricharan_resume.pdf)**
 ## Professional Summary
 
 - Over 5 years of experience as a **Java Full-Stack Developer**, building enterprise-grade, scalable, and high-performance applications.
