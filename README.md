@@ -69,12 +69,6 @@ Role: Intern Software Developer
 Master of Science in Computer Science  
 University of Dayton, USA  
 
-## Certifications
-
-- Certified Kubernetes Administrator (CKA)  
-- AWS Certified Solutions Architect – Associate  
-- Oracle Certified Java Programmer  
-
 ## Get In Touch
 
 If you have any questions or would like to discuss potential opportunities, feel free to reach out to me via email at [sricharanreddyboda@gmail.com](mailto:sricharanreddyboda@gmail.com). You can also view my other work on [GitHub](https://github.com/sricharan157) or connect with me on [LinkedIn](https://www.linkedin.com/in/sricharan-b-242786343).  
